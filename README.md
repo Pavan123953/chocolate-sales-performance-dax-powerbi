@@ -34,15 +34,6 @@ This structure supports optimized DAX performance and clear relationship paths.
 
 ---
 
-## 📊 Sample Visuals
-
-### Total Sales by Product Category
-![Sales by Category](images/sales-by-category.png)
-
-### Monthly Shipment Trend
-![Monthly Sales Trend](images/monthly-sales-trend.png)
-
----
 
 ## 📁 Project Structure
 Chocolate-Sales-Performance-Dashboard/
