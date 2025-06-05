@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 # 🍫 Chocolate Sales Performance Dashboard
 
