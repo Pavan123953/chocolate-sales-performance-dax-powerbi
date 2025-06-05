@@ -75,14 +75,6 @@ Target Comparison v3 = IF([Total Amount]>[Sales Target], "👍", "👎")
 
 ---
 
-## 📚 Dataset
-- **File:** sample-chocolate-sales-data-all.xlsx
-- **Sheets:**
-  - **Shipments:** Main transactional data
-  - **Dimension Data:** Salespeople and product metadata
-  - **Calendar:** For time intelligence & filtering
-
----
 
 ## 🛠 Tools & Technologies
 - Microsoft Power BI
