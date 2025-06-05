@@ -74,14 +74,3 @@ Target Comparison v3 = IF([Total Amount]>[Sales Target], "👍", "👎")
 
 ---
 
-## 👨‍💻 Author
-
-**Surya Pavan Peruri**  
-_Data Analyst | Aspiring Azure Data Engineer_  
-📫 [GitHub Portfolio](https://github.com/) (Insert your GitHub URL here)
-
----
-
-## 📘 License
-
-This project is licensed under the [MIT License](LICENSE).
